@@ -19,9 +19,7 @@
 ## 🔧 Tools & Tech I Use
 
 * Languages: `Java`, `C`, `HTML`, `CSS`, `JavaScript`
-* Cloud: `AWS`, `GCP` *(learning in progress)*
 * Tools: `Git`, `GitHub`, `VS Code`
-* Security: Exploring `IAM`, `VPC`, `firewall rules`, etc.
 
 ---
 
