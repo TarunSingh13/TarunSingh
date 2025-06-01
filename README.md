@@ -29,7 +29,7 @@
 
 * 🌐 [GitHub Profile](https://github.com/TarunSingh13)
 * 🐦 [X (Twitter)](https://x.com/TarunSingh198)
-* 💼 [LinkedIn](https://linkedin.com/in/yourusername)
+* 💼 [LinkedIn](https://www.linkedin.com/in/ tarun-singh13112006)
 * 📩 [tarun.email@example.com](mailto:tarunsingh735466@gmail.com)
 
 ---
